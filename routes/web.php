@@ -1,17 +1,19 @@
 <?php
 
 use App\Http\Controllers\ProfileController;
-use Illuminate\Foundation\Application;
 use Illuminate\Support\Facades\Route;
 use Inertia\Inertia;
 
 Route::get('/', function () {
-    return Inertia::render('Welcome', [
-        'canLogin' => Route::has('login'),
-        'canRegister' => Route::has('register'),
-        'laravelVersion' => Application::VERSION,
-        'phpVersion' => PHP_VERSION,
-    ]);
+    return inertia()->render('Index');
+});
+
+Route::prefix('fixture')->name('fixture')->group(function () {
+    Route::controller(\App\Http\Controllers\FixtureController::class)->group(function () {
+        Route::get('/', 'index')->name('.index');
+        Route::post('generate', 'generate')->name('.generate');
+        Route::post('simulate', 'simulate')->name('.simulate');
+    });
 });
 
 Route::get('/dashboard', function () {
