@@ -1,0 +1,2232 @@
+[
+    {
+        "name": "Atlanta Hawks",
+        "short_name": "ATL",
+        "simple_name": "Hawks",
+        "players": [
+            {
+                "name": "Bogdan",
+                "surname": "Bogdanovic"
+            },
+            {
+                "name": "Clint",
+                "surname": "Capela"
+            },
+            {
+                "name": "John",
+                "surname": "Collins"
+            },
+            {
+                "name": "Kris",
+                "surname": "Dunn"
+            },
+            {
+                "name": "Bruno",
+                "surname": "Fernando"
+            },
+            {
+                "name": "Danilo",
+                "surname": "Gallinari"
+            },
+            {
+                "name": "Brandon",
+                "surname": "Goodwin"
+            },
+            {
+                "name": "Solomon",
+                "surname": "Hill"
+            },
+            {
+                "name": "Kevin",
+                "surname": "Huerter"
+            },
+            {
+                "name": "De'Andre",
+                "surname": "Hunter"
+            },
+            {
+                "name": "Nathan",
+                "surname": "Knight"
+            },
+            {
+                "name": "Skylar",
+                "surname": "Mays"
+            },
+            {
+                "name": "Onyeka",
+                "surname": "Okongwu"
+            },
+            {
+                "name": "Cam",
+                "surname": "Reddish"
+            },
+            {
+                "name": "Tony",
+                "surname": "Snell"
+            },
+            {
+                "name": "Lou",
+                "surname": "Williams"
+            },
+            {
+                "name": "Trae",
+                "surname": "Young"
+            }
+        ]
+    },
+    {
+        "name": "Boston Celtics",
+        "short_name": "BOS",
+        "simple_name": "Celtics",
+        "players": [
+            {
+                "name": "Jaylen",
+                "surname": "Brown"
+            },
+            {
+                "name": "Carsen",
+                "surname": "Edwards"
+            },
+            {
+                "name": "Tacko",
+                "surname": "Fall"
+            },
+            {
+                "name": "Evan",
+                "surname": "Fournier"
+            },
+            {
+                "name": "Luke",
+                "surname": "Kornet"
+            },
+            {
+                "name": "Romeo",
+                "surname": "Langford"
+            },
+            {
+                "name": "Aaron",
+                "surname": "Nesmith"
+            },
+            {
+                "name": "Semi",
+                "surname": "Ojeleye"
+            },
+            {
+                "name": "Jabari",
+                "surname": "Parker"
+            },
+            {
+                "name": "Payton",
+                "surname": "Pritchard"
+            },
+            {
+                "name": "Marcus",
+                "surname": "Smart"
+            },
+            {
+                "name": "Jayson",
+                "surname": "Tatum"
+            },
+            {
+                "name": "Tristan",
+                "surname": "Thompson"
+            },
+            {
+                "name": "Kemba",
+                "surname": "Walker"
+            },
+            {
+                "name": "Tremont",
+                "surname": "Waters"
+            },
+            {
+                "name": "Grant",
+                "surname": "Williams"
+            },
+            {
+                "name": "Robert",
+                "surname": "Williams III"
+            }
+        ]
+    },
+    {
+        "name": "Brooklyn Nets",
+        "short_name": "BKN",
+        "simple_name": "Nets",
+        "players": [
+            {
+                "name": "Bruce",
+                "surname": "Brown"
+            },
+            {
+                "name": "Chris",
+                "surname": "Chiozza"
+            },
+            {
+                "name": "Nicolas",
+                "surname": "Claxton"
+            },
+            {
+                "name": "Spencer",
+                "surname": "Dinwiddie"
+            },
+            {
+                "name": "Kevin",
+                "surname": "Durant"
+            },
+            {
+                "name": "Jeff",
+                "surname": "Green"
+            },
+            {
+                "name": "Blake",
+                "surname": "Griffin"
+            },
+            {
+                "name": "James",
+                "surname": "Harden"
+            },
+            {
+                "name": "Joe",
+                "surname": "Harris"
+            },
+            {
+                "name": "Kyrie",
+                "surname": "Irving"
+            },
+            {
+                "name": "Mike",
+                "surname": "James"
+            },
+            {
+                "name": "Alize",
+                "surname": "Johnson"
+            },
+            {
+                "name": "Tyler",
+                "surname": "Johnson"
+            },
+            {
+                "name": "DeAndre",
+                "surname": "Jordan"
+            },
+            {
+                "name": "Timothe",
+                "surname": "Luwawu-Cabarrot"
+            },
+            {
+                "name": "Reggie",
+                "surname": "Perry"
+            },
+            {
+                "name": "Landry",
+                "surname": "Shamet"
+            }
+        ]
+    },
+    {
+        "name": "Charlotte Hornets",
+        "short_name": "CHA",
+        "simple_name": "Hornets",
+        "players": [
+            {
+                "name": "LaMelo",
+                "surname": "Ball"
+            },
+            {
+                "name": "Bismack",
+                "surname": "Biyombo"
+            },
+            {
+                "name": "Miles",
+                "surname": "Bridges"
+            },
+            {
+                "name": "Vernon",
+                "surname": "Carey Jr."
+            },
+            {
+                "name": "Nate",
+                "surname": "Darling"
+            },
+            {
+                "name": "Devonte'",
+                "surname": "Graham"
+            },
+            {
+                "name": "Gordon",
+                "surname": "Hayward"
+            },
+            {
+                "name": "Caleb",
+                "surname": "Martin"
+            },
+            {
+                "name": "Cody",
+                "surname": "Martin"
+            },
+            {
+                "name": "Jalen",
+                "surname": "McDaniels"
+            },
+            {
+                "name": "Malik",
+                "surname": "Monk"
+            },
+            {
+                "name": "Nick",
+                "surname": "Richards"
+            },
+            {
+                "name": "Grant",
+                "surname": "Riller"
+            },
+            {
+                "name": "Terry",
+                "surname": "Rozier"
+            },
+            {
+                "name": "Brad",
+                "surname": "Wanamaker"
+            },
+            {
+                "name": "P.J.",
+                "surname": "Washington"
+            },
+            {
+                "name": "Cody",
+                "surname": "Zeller"
+            }
+        ]
+    },
+    {
+        "name": "Chicago Bulls",
+        "short_name": "CHI",
+        "simple_name": "Bulls",
+        "players": [
+            {
+                "name": "Al-Farouq",
+                "surname": "Aminu"
+            },
+            {
+                "name": "Ryan",
+                "surname": "Arcidiacono"
+            },
+            {
+                "name": "Troy",
+                "surname": "Brown Jr."
+            },
+            {
+                "name": "Devon",
+                "surname": "Dotson"
+            },
+            {
+                "name": "Cristiano",
+                "surname": "Felicio"
+            },
+            {
+                "name": "Javonte",
+                "surname": "Green"
+            },
+            {
+                "name": "Zach",
+                "surname": "LaVine"
+            },
+            {
+                "name": "Lauri",
+                "surname": "Markkanen"
+            },
+            {
+                "name": "Adam",
+                "surname": "Mokoka"
+            },
+            {
+                "name": "Tomas",
+                "surname": "Satoransky"
+            },
+            {
+                "name": "Garrett",
+                "surname": "Temple"
+            },
+            {
+                "name": "Daniel",
+                "surname": "Theis"
+            },
+            {
+                "name": "Denzel",
+                "surname": "Valentine"
+            },
+            {
+                "name": "Nikola",
+                "surname": "Vucevic"
+            },
+            {
+                "name": "Coby",
+                "surname": "White"
+            },
+            {
+                "name": "Patrick",
+                "surname": "Williams"
+            },
+            {
+                "name": "Thaddeus",
+                "surname": "Young"
+            }
+        ]
+    },
+    {
+        "name": "Cleveland Cavaliers",
+        "short_name": "CLE",
+        "simple_name": "Cavaliers",
+        "players": [
+            {
+                "name": "Jarrett",
+                "surname": "Allen"
+            },
+            {
+                "name": "Matthew",
+                "surname": "Dellavedova"
+            },
+            {
+                "name": "Damyean",
+                "surname": "Dotson"
+            },
+            {
+                "name": "Darius",
+                "surname": "Garland"
+            },
+            {
+                "name": "Isaiah",
+                "surname": "Hartenstein"
+            },
+            {
+                "name": "Mfiondu",
+                "surname": "Kabengele"
+            },
+            {
+                "name": "Kevin",
+                "surname": "Love"
+            },
+            {
+                "name": "Jeremiah",
+                "surname": "Martin"
+            },
+            {
+                "name": "Larry",
+                "surname": "Nance Jr."
+            },
+            {
+                "name": "Isaac",
+                "surname": "Okoro"
+            },
+            {
+                "name": "Cedi",
+                "surname": "Osman"
+            },
+            {
+                "name": "Taurean",
+                "surname": "Prince"
+            },
+            {
+                "name": "Collin",
+                "surname": "Sexton"
+            },
+            {
+                "name": "Lamar",
+                "surname": "Stevens"
+            },
+            {
+                "name": "Brodric",
+                "surname": "Thomas"
+            },
+            {
+                "name": "Anderson",
+                "surname": "Varejao"
+            },
+            {
+                "name": "Dean",
+                "surname": "Wade"
+            },
+            {
+                "name": "Dylan",
+                "surname": "Windler"
+            }
+        ]
+    },
+    {
+        "name": "Dallas Mavericks",
+        "short_name": "DAL",
+        "simple_name": "Mavericks",
+        "players": [
+            {
+                "name": "Tyler",
+                "surname": "Bey"
+            },
+            {
+                "name": "Jalen",
+                "surname": "Brunson"
+            },
+            {
+                "name": "Trey",
+                "surname": "Burke"
+            },
+            {
+                "name": "Willie",
+                "surname": "Cauley-Stein"
+            },
+            {
+                "name": "Luka",
+                "surname": "Doncic"
+            },
+            {
+                "name": "Dorian",
+                "surname": "Finney-Smith"
+            },
+            {
+                "name": "Josh",
+                "surname": "Green"
+            },
+            {
+                "name": "Tim",
+                "surname": "Hardaway Jr."
+            },
+            {
+                "name": "Nate",
+                "surname": "Hinton"
+            },
+            {
+                "name": "Maxi",
+                "surname": "Kleber"
+            },
+            {
+                "name": "Boban",
+                "surname": "Marjanovic"
+            },
+            {
+                "name": "Nicolo",
+                "surname": "Melli"
+            },
+            {
+                "name": "Kristaps",
+                "surname": "Porzingis"
+            },
+            {
+                "name": "Dwight",
+                "surname": "Powell"
+            },
+            {
+                "name": "JJ",
+                "surname": "Redick"
+            },
+            {
+                "name": "Josh",
+                "surname": "Richardson"
+            },
+            {
+                "name": "Tyrell",
+                "surname": "Terry"
+            }
+        ]
+    },
+    {
+        "name": "Denver Nuggets",
+        "short_name": "DEN",
+        "simple_name": "Nuggets",
+        "players": [
+            {
+                "name": "Will",
+                "surname": "Barton"
+            },
+            {
+                "name": "Bol",
+                "surname": "Bol"
+            },
+            {
+                "name": "Facundo",
+                "surname": "Campazzo"
+            },
+            {
+                "name": "Vlatko",
+                "surname": "Cancar"
+            },
+            {
+                "name": "PJ",
+                "surname": "Dozier"
+            },
+            {
+                "name": "Aaron",
+                "surname": "Gordon"
+            },
+            {
+                "name": "JaMychal",
+                "surname": "Green"
+            },
+            {
+                "name": "Shaquille",
+                "surname": "Harrison"
+            },
+            {
+                "name": "Markus",
+                "surname": "Howard"
+            },
+            {
+                "name": "Nikola",
+                "surname": "Jokic"
+            },
+            {
+                "name": "JaVale",
+                "surname": "McGee"
+            },
+            {
+                "name": "Paul",
+                "surname": "Millsap"
+            },
+            {
+                "name": "Monte",
+                "surname": "Morris"
+            },
+            {
+                "name": "Jamal",
+                "surname": "Murray"
+            },
+            {
+                "name": "Zeke",
+                "surname": "Nnaji"
+            },
+            {
+                "name": "Michael",
+                "surname": "Porter Jr."
+            },
+            {
+                "name": "Austin",
+                "surname": "Rivers"
+            }
+        ]
+    },
+    {
+        "name": "Detroit Pistons",
+        "short_name": "DET",
+        "simple_name": "Pistons",
+        "players": [
+            {
+                "name": "Saddiq",
+                "surname": "Bey"
+            },
+            {
+                "name": "Tyler",
+                "surname": "Cook"
+            },
+            {
+                "name": "Hamidou",
+                "surname": "Diallo"
+            },
+            {
+                "name": "Sekou",
+                "surname": "Doumbouya"
+            },
+            {
+                "name": "Wayne",
+                "surname": "Ellington"
+            },
+            {
+                "name": "Jerami",
+                "surname": "Grant"
+            },
+            {
+                "name": "Killian",
+                "surname": "Hayes"
+            },
+            {
+                "name": "Frank",
+                "surname": "Jackson"
+            },
+            {
+                "name": "Josh",
+                "surname": "Jackson"
+            },
+            {
+                "name": "Cory",
+                "surname": "Joseph"
+            },
+            {
+                "name": "Saben",
+                "surname": "Lee"
+            },
+            {
+                "name": "Rodney",
+                "surname": "McGruder"
+            },
+            {
+                "name": "Jahlil",
+                "surname": "Okafor"
+            },
+            {
+                "name": "Mason",
+                "surname": "Plumlee"
+            },
+            {
+                "name": "Deividas",
+                "surname": "Sirvydis"
+            },
+            {
+                "name": "Dennis",
+                "surname": "Smith Jr."
+            },
+            {
+                "name": "Isaiah",
+                "surname": "Stewart"
+            }
+        ]
+    },
+    {
+        "name": "Golden State Warriors",
+        "short_name": "GSW",
+        "simple_name": "Warriors",
+        "players": [
+            {
+                "name": "Kent",
+                "surname": "Bazemore"
+            },
+            {
+                "name": "Jordan",
+                "surname": "Bell"
+            },
+            {
+                "name": "Stephen",
+                "surname": "Curry"
+            },
+            {
+                "name": "Draymond",
+                "surname": "Green"
+            },
+            {
+                "name": "Damion",
+                "surname": "Lee"
+            },
+            {
+                "name": "Kevon",
+                "surname": "Looney"
+            },
+            {
+                "name": "Nico",
+                "surname": "Mannion"
+            },
+            {
+                "name": "Mychal",
+                "surname": "Mulder"
+            },
+            {
+                "name": "Kelly",
+                "surname": "Oubre Jr."
+            },
+            {
+                "name": "Eric",
+                "surname": "Paschall"
+            },
+            {
+                "name": "Jordan",
+                "surname": "Poole"
+            },
+            {
+                "name": "Alen",
+                "surname": "Smailagic"
+            },
+            {
+                "name": "Klay",
+                "surname": "Thompson"
+            },
+            {
+                "name": "Juan",
+                "surname": "Toscano-Anderson"
+            },
+            {
+                "name": "Andrew",
+                "surname": "Wiggins"
+            },
+            {
+                "name": "James",
+                "surname": "Wiseman"
+            }
+        ]
+    },
+    {
+        "name": "Houston Rockets",
+        "short_name": "HOU",
+        "simple_name": "Rockets",
+        "players": [
+            {
+                "name": "D.J.",
+                "surname": "Augustin"
+            },
+            {
+                "name": "Avery",
+                "surname": "Bradley"
+            },
+            {
+                "name": "Armoni",
+                "surname": "Brooks"
+            },
+            {
+                "name": "Sterling",
+                "surname": "Brown"
+            },
+            {
+                "name": "Dante",
+                "surname": "Exum"
+            },
+            {
+                "name": "Eric",
+                "surname": "Gordon"
+            },
+            {
+                "name": "Danuel",
+                "surname": "House Jr."
+            },
+            {
+                "name": "Anthony",
+                "surname": "Lamb"
+            },
+            {
+                "name": "Kenyon",
+                "surname": "Martin Jr."
+            },
+            {
+                "name": "David",
+                "surname": "Nwaba"
+            },
+            {
+                "name": "Cameron",
+                "surname": "Oliver"
+            },
+            {
+                "name": "Kelly",
+                "surname": "Olynyk"
+            },
+            {
+                "name": "Kevin",
+                "surname": "Porter Jr."
+            },
+            {
+                "name": "Cameron",
+                "surname": "Reynolds"
+            },
+            {
+                "name": "Jae'Sean",
+                "surname": "Tate"
+            },
+            {
+                "name": "Khyri",
+                "surname": "Thomas"
+            },
+            {
+                "name": "John",
+                "surname": "Wall"
+            },
+            {
+                "name": "D.J.",
+                "surname": "Wilson"
+            },
+            {
+                "name": "Christian",
+                "surname": "Wood"
+            }
+        ]
+    },
+    {
+        "name": "Indiana Pacers",
+        "short_name": "IND",
+        "simple_name": "Pacers",
+        "players": [
+            {
+                "name": "Goga",
+                "surname": "Bitadze"
+            },
+            {
+                "name": "Amida",
+                "surname": "Brimah"
+            },
+            {
+                "name": "Oshae",
+                "surname": "Brissett"
+            },
+            {
+                "name": "Malcolm",
+                "surname": "Brogdon"
+            },
+            {
+                "name": "Aaron",
+                "surname": "Holiday"
+            },
+            {
+                "name": "Justin",
+                "surname": "Holiday"
+            },
+            {
+                "name": "Jeremy",
+                "surname": "Lamb"
+            },
+            {
+                "name": "Caris",
+                "surname": "LeVert"
+            },
+            {
+                "name": "Kelan",
+                "surname": "Martin"
+            },
+            {
+                "name": "T.J.",
+                "surname": "McConnell"
+            },
+            {
+                "name": "Doug",
+                "surname": "McDermott"
+            },
+            {
+                "name": "Domantas",
+                "surname": "Sabonis"
+            },
+            {
+                "name": "JaKarr",
+                "surname": "Sampson"
+            },
+            {
+                "name": "Cassius",
+                "surname": "Stanley"
+            },
+            {
+                "name": "Edmond",
+                "surname": "Sumner"
+            },
+            {
+                "name": "Myles",
+                "surname": "Turner"
+            },
+            {
+                "name": "T.J.",
+                "surname": "Warren"
+            }
+        ]
+    },
+    {
+        "name": "Los Angeles Clippers",
+        "short_name": "LAC",
+        "simple_name": "Clippers",
+        "players": [
+            {
+                "name": "Nicolas",
+                "surname": "Batum"
+            },
+            {
+                "name": "Patrick",
+                "surname": "Beverley"
+            },
+            {
+                "name": "Amir",
+                "surname": "Coffey"
+            },
+            {
+                "name": "DeMarcus",
+                "surname": "Cousins"
+            },
+            {
+                "name": "Yogi",
+                "surname": "Ferrell"
+            },
+            {
+                "name": "Paul",
+                "surname": "George"
+            },
+            {
+                "name": "Serge",
+                "surname": "Ibaka"
+            },
+            {
+                "name": "Reggie",
+                "surname": "Jackson"
+            },
+            {
+                "name": "Luke",
+                "surname": "Kennard"
+            },
+            {
+                "name": "Kawhi",
+                "surname": "Leonard"
+            },
+            {
+                "name": "Terance",
+                "surname": "Mann"
+            },
+            {
+                "name": "Marcus",
+                "surname": "Morris Sr."
+            },
+            {
+                "name": "Daniel",
+                "surname": "Oturu"
+            },
+            {
+                "name": "Patrick",
+                "surname": "Patterson"
+            },
+            {
+                "name": "Rajon",
+                "surname": "Rondo"
+            },
+            {
+                "name": "Jay",
+                "surname": "Scrubb"
+            },
+            {
+                "name": "Ivica",
+                "surname": "Zubac"
+            }
+        ]
+    },
+    {
+        "name": "Los Angeles Lakers",
+        "short_name": "LAL",
+        "simple_name": "Lakers",
+        "players": [
+            {
+                "name": "Kostas",
+                "surname": "Antetokounmpo"
+            },
+            {
+                "name": "Devontae",
+                "surname": "Cacok"
+            },
+            {
+                "name": "Kentavious",
+                "surname": "Caldwell-Pope"
+            },
+            {
+                "name": "Alex",
+                "surname": "Caruso"
+            },
+            {
+                "name": "Anthony",
+                "surname": "Davis"
+            },
+            {
+                "name": "Andre",
+                "surname": "Drummond"
+            },
+            {
+                "name": "Jared",
+                "surname": "Dudley"
+            },
+            {
+                "name": "Marc",
+                "surname": "Gasol"
+            },
+            {
+                "name": "Montrezl",
+                "surname": "Harrell"
+            },
+            {
+                "name": "Talen",
+                "surname": "Horton-Tucker"
+            },
+            {
+                "name": "LeBron",
+                "surname": "James"
+            },
+            {
+                "name": "Kyle",
+                "surname": "Kuzma"
+            },
+            {
+                "name": "Wesley",
+                "surname": "Matthews"
+            },
+            {
+                "name": "Alfonzo",
+                "surname": "McKinnie"
+            },
+            {
+                "name": "Ben",
+                "surname": "McLemore"
+            },
+            {
+                "name": "Markieff",
+                "surname": "Morris"
+            },
+            {
+                "name": "Dennis",
+                "surname": "Schroder"
+            }
+        ]
+    },
+    {
+        "name": "Memphis Grizzlies",
+        "short_name": "MEM",
+        "simple_name": "Grizzlies",
+        "players": [
+            {
+                "name": "Grayson",
+                "surname": "Allen"
+            },
+            {
+                "name": "Kyle",
+                "surname": "Anderson"
+            },
+            {
+                "name": "Desmond",
+                "surname": "Bane"
+            },
+            {
+                "name": "Dillon",
+                "surname": "Brooks"
+            },
+            {
+                "name": "Brandon",
+                "surname": "Clarke"
+            },
+            {
+                "name": "Tim",
+                "surname": "Frazier"
+            },
+            {
+                "name": "Jaren",
+                "surname": "Jackson Jr."
+            },
+            {
+                "name": "Tyus",
+                "surname": "Jones"
+            },
+            {
+                "name": "John",
+                "surname": "Konchar"
+            },
+            {
+                "name": "Sean",
+                "surname": "McDermott"
+            },
+            {
+                "name": "De'Anthony",
+                "surname": "Melton"
+            },
+            {
+                "name": "Ja",
+                "surname": "Morant"
+            },
+            {
+                "name": "Jontay",
+                "surname": "Porter"
+            },
+            {
+                "name": "Killian",
+                "surname": "Tillie"
+            },
+            {
+                "name": "Xavier",
+                "surname": "Tillman"
+            },
+            {
+                "name": "Jonas",
+                "surname": "Valanciunas"
+            },
+            {
+                "name": "Justise",
+                "surname": "Winslow"
+            }
+        ]
+    },
+    {
+        "name": "Miami Heat",
+        "short_name": "MIA",
+        "simple_name": "Heat",
+        "players": [
+            {
+                "name": "Precious",
+                "surname": "Achiuwa"
+            },
+            {
+                "name": "Bam",
+                "surname": "Adebayo"
+            },
+            {
+                "name": "Trevor",
+                "surname": "Ariza"
+            },
+            {
+                "name": "Nemanja",
+                "surname": "Bjelica"
+            },
+            {
+                "name": "Jimmy",
+                "surname": "Butler"
+            },
+            {
+                "name": "Dewayne",
+                "surname": "Dedmon"
+            },
+            {
+                "name": "Goran",
+                "surname": "Dragic"
+            },
+            {
+                "name": "Udonis",
+                "surname": "Haslem"
+            },
+            {
+                "name": "Tyler",
+                "surname": "Herro"
+            },
+            {
+                "name": "Andre",
+                "surname": "Iguodala"
+            },
+            {
+                "name": "Kendrick",
+                "surname": "Nunn"
+            },
+            {
+                "name": "KZ",
+                "surname": "Okpala"
+            },
+            {
+                "name": "Victor",
+                "surname": "Oladipo"
+            },
+            {
+                "name": "Duncan",
+                "surname": "Robinson"
+            },
+            {
+                "name": "Max",
+                "surname": "Strus"
+            },
+            {
+                "name": "Gabe",
+                "surname": "Vincent"
+            },
+            {
+                "name": "Omer",
+                "surname": "Yurtseven"
+            }
+        ]
+    },
+    {
+        "name": "Milwaukee Bucks",
+        "short_name": "MIL",
+        "simple_name": "Bucks",
+        "players": [
+            {
+                "name": "Giannis",
+                "surname": "Antetokounmpo"
+            },
+            {
+                "name": "Thanasis",
+                "surname": "Antetokounmpo"
+            },
+            {
+                "name": "Elijah",
+                "surname": "Bryant"
+            },
+            {
+                "name": "Pat",
+                "surname": "Connaughton"
+            },
+            {
+                "name": "Donte",
+                "surname": "DiVincenzo"
+            },
+            {
+                "name": "Mamadi",
+                "surname": "Diakite"
+            },
+            {
+                "name": "Bryn",
+                "surname": "Forbes"
+            },
+            {
+                "name": "Jrue",
+                "surname": "Holiday"
+            },
+            {
+                "name": "Justin",
+                "surname": "Jackson"
+            },
+            {
+                "name": "Brook",
+                "surname": "Lopez"
+            },
+            {
+                "name": "Sam",
+                "surname": "Merrill"
+            },
+            {
+                "name": "Khris",
+                "surname": "Middleton"
+            },
+            {
+                "name": "Jordan",
+                "surname": "Nwora"
+            },
+            {
+                "name": "Bobby",
+                "surname": "Portis"
+            },
+            {
+                "name": "Jeff",
+                "surname": "Teague"
+            },
+            {
+                "name": "Axel",
+                "surname": "Toupane"
+            },
+            {
+                "name": "P.J.",
+                "surname": "Tucker"
+            }
+        ]
+    },
+    {
+        "name": "Minnesota Timberwolves",
+        "short_name": "MIN",
+        "simple_name": "Timberwolves",
+        "players": [
+            {
+                "name": "Malik",
+                "surname": "Beasley"
+            },
+            {
+                "name": "Jarrett",
+                "surname": "Culver"
+            },
+            {
+                "name": "Ed",
+                "surname": "Davis"
+            },
+            {
+                "name": "Anthony",
+                "surname": "Edwards"
+            },
+            {
+                "name": "Juancho",
+                "surname": "Hernangomez"
+            },
+            {
+                "name": "Jake",
+                "surname": "Layman"
+            },
+            {
+                "name": "Jaden",
+                "surname": "McDaniels"
+            },
+            {
+                "name": "Jordan",
+                "surname": "McLaughlin"
+            },
+            {
+                "name": "Jaylen",
+                "surname": "Nowell"
+            },
+            {
+                "name": "Josh",
+                "surname": "Okogie"
+            },
+            {
+                "name": "Naz",
+                "surname": "Reid"
+            },
+            {
+                "name": "Ricky",
+                "surname": "Rubio"
+            },
+            {
+                "name": "D'Angelo",
+                "surname": "Russell"
+            },
+            {
+                "name": "Karl-Anthony",
+                "surname": "Towns"
+            },
+            {
+                "name": "Jarred",
+                "surname": "Vanderbilt"
+            }
+        ]
+    },
+    {
+        "name": "New Orleans Pelicans",
+        "short_name": "NOP",
+        "simple_name": "Pelicans",
+        "players": [
+            {
+                "name": "Steven",
+                "surname": "Adams"
+            },
+            {
+                "name": "Nickeil",
+                "surname": "Alexander-Walker"
+            },
+            {
+                "name": "Lonzo",
+                "surname": "Ball"
+            },
+            {
+                "name": "Eric",
+                "surname": "Bledsoe"
+            },
+            {
+                "name": "Wenyen",
+                "surname": "Gabriel"
+            },
+            {
+                "name": "Josh",
+                "surname": "Hart"
+            },
+            {
+                "name": "Jaxson",
+                "surname": "Hayes"
+            },
+            {
+                "name": "Willy",
+                "surname": "Hernangomez"
+            },
+            {
+                "name": "Brandon",
+                "surname": "Ingram"
+            },
+            {
+                "name": "Wes",
+                "surname": "Iwundu"
+            },
+            {
+                "name": "James",
+                "surname": "Johnson"
+            },
+            {
+                "name": "Kira",
+                "surname": "Lewis Jr."
+            },
+            {
+                "name": "Didi",
+                "surname": "Louzada"
+            },
+            {
+                "name": "Naji",
+                "surname": "Marshall"
+            },
+            {
+                "name": "James",
+                "surname": "Nunnally"
+            },
+            {
+                "name": "Zion",
+                "surname": "Williamson"
+            }
+        ]
+    },
+    {
+        "name": "New York Knicks",
+        "short_name": "NYK",
+        "simple_name": "Knicks",
+        "players": [
+            {
+                "name": "RJ",
+                "surname": "Barrett"
+            },
+            {
+                "name": "Reggie",
+                "surname": "Bullock"
+            },
+            {
+                "name": "Alec",
+                "surname": "Burks"
+            },
+            {
+                "name": "Taj",
+                "surname": "Gibson"
+            },
+            {
+                "name": "Jared",
+                "surname": "Harper"
+            },
+            {
+                "name": "Kevin",
+                "surname": "Knox II"
+            },
+            {
+                "name": "Nerlens",
+                "surname": "Noel"
+            },
+            {
+                "name": "Frank",
+                "surname": "Ntilikina"
+            },
+            {
+                "name": "Elfrid",
+                "surname": "Payton"
+            },
+            {
+                "name": "Norvel",
+                "surname": "Pelle"
+            },
+            {
+                "name": "Theo",
+                "surname": "Pinson"
+            },
+            {
+                "name": "Immanuel",
+                "surname": "Quickley"
+            },
+            {
+                "name": "Julius",
+                "surname": "Randle"
+            },
+            {
+                "name": "Mitchell",
+                "surname": "Robinson"
+            },
+            {
+                "name": "Derrick",
+                "surname": "Rose"
+            },
+            {
+                "name": "Obi",
+                "surname": "Toppin"
+            },
+            {
+                "name": "Luca",
+                "surname": "Vildoza"
+            }
+        ]
+    },
+    {
+        "name": "Oklahoma City Thunder",
+        "short_name": "OKC",
+        "simple_name": "Thunder",
+        "players": [
+            {
+                "name": "Darius",
+                "surname": "Bazley"
+            },
+            {
+                "name": "Tony",
+                "surname": "Bradley"
+            },
+            {
+                "name": "Moses",
+                "surname": "Brown"
+            },
+            {
+                "name": "Charlie",
+                "surname": "Brown Jr."
+            },
+            {
+                "name": "Gabriel",
+                "surname": "Deck"
+            },
+            {
+                "name": "Luguentz",
+                "surname": "Dort"
+            },
+            {
+                "name": "Shai",
+                "surname": "Gilgeous-Alexander"
+            },
+            {
+                "name": "Josh",
+                "surname": "Hall"
+            },
+            {
+                "name": "Jaylen",
+                "surname": "Hoard"
+            },
+            {
+                "name": "Al",
+                "surname": "Horford"
+            },
+            {
+                "name": "Ty",
+                "surname": "Jerome"
+            },
+            {
+                "name": "Theo",
+                "surname": "Maledon"
+            },
+            {
+                "name": "Mike",
+                "surname": "Muscala"
+            },
+            {
+                "name": "Svi",
+                "surname": "Mykhailiuk"
+            },
+            {
+                "name": "Aleksej",
+                "surname": "Pokusevski"
+            },
+            {
+                "name": "Isaiah",
+                "surname": "Roby"
+            },
+            {
+                "name": "Kenrich",
+                "surname": "Williams"
+            }
+        ]
+    },
+    {
+        "name": "Orlando Magic",
+        "short_name": "ORL",
+        "simple_name": "Magic",
+        "players": [
+            {
+                "name": "Cole",
+                "surname": "Anthony"
+            },
+            {
+                "name": "Dwayne",
+                "surname": "Bacon"
+            },
+            {
+                "name": "Mo",
+                "surname": "Bamba"
+            },
+            {
+                "name": "Ignas",
+                "surname": "Brazdeikis"
+            },
+            {
+                "name": "Wendell",
+                "surname": "Carter Jr."
+            },
+            {
+                "name": "Michael",
+                "surname": "Carter-Williams"
+            },
+            {
+                "name": "James",
+                "surname": "Ennis III"
+            },
+            {
+                "name": "Markelle",
+                "surname": "Fultz"
+            },
+            {
+                "name": "Donta",
+                "surname": "Hall"
+            },
+            {
+                "name": "R.J.",
+                "surname": "Hampton"
+            },
+            {
+                "name": "Gary",
+                "surname": "Harris"
+            },
+            {
+                "name": "Jonathan",
+                "surname": "Isaac"
+            },
+            {
+                "name": "Chuma",
+                "surname": "Okeke"
+            },
+            {
+                "name": "Otto",
+                "surname": "Porter Jr."
+            },
+            {
+                "name": "Chasson",
+                "surname": "Randle"
+            },
+            {
+                "name": "Terrence",
+                "surname": "Ross"
+            },
+            {
+                "name": "Sindarius",
+                "surname": "Thornwell"
+            },
+            {
+                "name": "Moritz",
+                "surname": "Wagner"
+            }
+        ]
+    },
+    {
+        "name": "Philadelphia 76ers",
+        "short_name": "PHI",
+        "simple_name": "76ers",
+        "players": [
+            {
+                "name": "Gary",
+                "surname": "Clark"
+            },
+            {
+                "name": "Seth",
+                "surname": "Curry"
+            },
+            {
+                "name": "Joel",
+                "surname": "Embiid"
+            },
+            {
+                "name": "Danny",
+                "surname": "Green"
+            },
+            {
+                "name": "Tobias",
+                "surname": "Harris"
+            },
+            {
+                "name": "George",
+                "surname": "Hill"
+            },
+            {
+                "name": "Dwight",
+                "surname": "Howard"
+            },
+            {
+                "name": "Isaiah",
+                "surname": "Joe"
+            },
+            {
+                "name": "Furkan",
+                "surname": "Korkmaz"
+            },
+            {
+                "name": "Tyrese",
+                "surname": "Maxey"
+            },
+            {
+                "name": "Shake",
+                "surname": "Milton"
+            },
+            {
+                "name": "Paul",
+                "surname": "Reed"
+            },
+            {
+                "name": "Mike",
+                "surname": "Scott"
+            },
+            {
+                "name": "Ben",
+                "surname": "Simmons"
+            },
+            {
+                "name": "Matisse",
+                "surname": "Thybulle"
+            },
+            {
+                "name": "Anthony",
+                "surname": "Tolliver"
+            },
+            {
+                "name": "Rayjon",
+                "surname": "Tucker"
+            }
+        ]
+    },
+    {
+        "name": "Phoenix Suns",
+        "short_name": "PHX",
+        "simple_name": "Suns",
+        "players": [
+            {
+                "name": "Ty-Shon",
+                "surname": "Alexander"
+            },
+            {
+                "name": "Deandre",
+                "surname": "Ayton"
+            },
+            {
+                "name": "Devin",
+                "surname": "Booker"
+            },
+            {
+                "name": "Mikal",
+                "surname": "Bridges"
+            },
+            {
+                "name": "Jevon",
+                "surname": "Carter"
+            },
+            {
+                "name": "Torrey",
+                "surname": "Craig"
+            },
+            {
+                "name": "Jae",
+                "surname": "Crowder"
+            },
+            {
+                "name": "Langston",
+                "surname": "Galloway"
+            },
+            {
+                "name": "Cameron",
+                "surname": "Johnson"
+            },
+            {
+                "name": "Frank",
+                "surname": "Kaminsky"
+            },
+            {
+                "name": "E'Twaun",
+                "surname": "Moore"
+            },
+            {
+                "name": "Abdel",
+                "surname": "Nader"
+            },
+            {
+                "name": "Chris",
+                "surname": "Paul"
+            },
+            {
+                "name": "Cameron",
+                "surname": "Payne"
+            },
+            {
+                "name": "Dario",
+                "surname": "Saric"
+            },
+            {
+                "name": "Jalen",
+                "surname": "Smith"
+            }
+        ]
+    },
+    {
+        "name": "Portland Trail Blazers",
+        "short_name": "POR",
+        "simple_name": "Trail Blazers",
+        "players": [
+            {
+                "name": "Carmelo",
+                "surname": "Anthony"
+            },
+            {
+                "name": "Keljin",
+                "surname": "Blevins"
+            },
+            {
+                "name": "Zach",
+                "surname": "Collins"
+            },
+            {
+                "name": "Robert",
+                "surname": "Covington"
+            },
+            {
+                "name": "CJ",
+                "surname": "Elleby"
+            },
+            {
+                "name": "Harry",
+                "surname": "Giles III"
+            },
+            {
+                "name": "Rondae",
+                "surname": "Hollis-Jefferson"
+            },
+            {
+                "name": "Derrick",
+                "surname": "Jones Jr."
+            },
+            {
+                "name": "Enes",
+                "surname": "Kanter"
+            },
+            {
+                "name": "T.J.",
+                "surname": "Leaf"
+            },
+            {
+                "name": "Damian",
+                "surname": "Lillard"
+            },
+            {
+                "name": "Nassir",
+                "surname": "Little"
+            },
+            {
+                "name": "CJ",
+                "surname": "McCollum"
+            },
+            {
+                "name": "Jusuf",
+                "surname": "Nurkic"
+            },
+            {
+                "name": "Norman",
+                "surname": "Powell"
+            },
+            {
+                "name": "Anfernee",
+                "surname": "Simons"
+            }
+        ]
+    },
+    {
+        "name": "Sacramento Kings",
+        "short_name": "SAC",
+        "simple_name": "Kings",
+        "players": [
+            {
+                "name": "Marvin",
+                "surname": "Bagley III"
+            },
+            {
+                "name": "Harrison",
+                "surname": "Barnes"
+            },
+            {
+                "name": "Terence",
+                "surname": "Davis"
+            },
+            {
+                "name": "De'Aaron",
+                "surname": "Fox"
+            },
+            {
+                "name": "Kyle",
+                "surname": "Guy"
+            },
+            {
+                "name": "Tyrese",
+                "surname": "Haliburton"
+            },
+            {
+                "name": "Maurice",
+                "surname": "Harkless"
+            },
+            {
+                "name": "Buddy",
+                "surname": "Hield"
+            },
+            {
+                "name": "Richaun",
+                "surname": "Holmes"
+            },
+            {
+                "name": "Justin",
+                "surname": "James"
+            },
+            {
+                "name": "Damian",
+                "surname": "Jones"
+            },
+            {
+                "name": "Louis",
+                "surname": "King"
+            },
+            {
+                "name": "Chimezie",
+                "surname": "Metu"
+            },
+            {
+                "name": "Jahmi'us",
+                "surname": "Ramsey"
+            },
+            {
+                "name": "Hassan",
+                "surname": "Whiteside"
+            },
+            {
+                "name": "Robert",
+                "surname": "Woodard II"
+            },
+            {
+                "name": "Delon",
+                "surname": "Wright"
+            }
+        ]
+    },
+    {
+        "name": "San Antonio Spurs",
+        "short_name": "SAS",
+        "simple_name": "Spurs",
+        "players": [
+            {
+                "name": "Keita",
+                "surname": "Bates-Diop"
+            },
+            {
+                "name": "DeMar",
+                "surname": "DeRozan"
+            },
+            {
+                "name": "Gorgui",
+                "surname": "Dieng"
+            },
+            {
+                "name": "Drew",
+                "surname": "Eubanks"
+            },
+            {
+                "name": "Rudy",
+                "surname": "Gay"
+            },
+            {
+                "name": "Keldon",
+                "surname": "Johnson"
+            },
+            {
+                "name": "Tre",
+                "surname": "Jones"
+            },
+            {
+                "name": "Trey",
+                "surname": "Lyles"
+            },
+            {
+                "name": "Patty",
+                "surname": "Mills"
+            },
+            {
+                "name": "Dejounte",
+                "surname": "Murray"
+            },
+            {
+                "name": "Jakob",
+                "surname": "Poeltl"
+            },
+            {
+                "name": "Luka",
+                "surname": "Samanic"
+            },
+            {
+                "name": "Devin",
+                "surname": "Vassell"
+            },
+            {
+                "name": "Lonnie",
+                "surname": "Walker IV"
+            },
+            {
+                "name": "Quinndary",
+                "surname": "Weatherspoon"
+            },
+            {
+                "name": "Derrick",
+                "surname": "White"
+            }
+        ]
+    },
+    {
+        "name": "Toronto Raptors",
+        "short_name": "TOR",
+        "simple_name": "Raptors",
+        "players": [
+            {
+                "name": "OG",
+                "surname": "Anunoby"
+            },
+            {
+                "name": "Aron",
+                "surname": "Baynes"
+            },
+            {
+                "name": "DeAndre'",
+                "surname": "Bembry"
+            },
+            {
+                "name": "Khem",
+                "surname": "Birch"
+            },
+            {
+                "name": "Chris",
+                "surname": "Boucher"
+            },
+            {
+                "name": "Malachi",
+                "surname": "Flynn"
+            },
+            {
+                "name": "Freddie",
+                "surname": "Gillespie"
+            },
+            {
+                "name": "Jalen",
+                "surname": "Harris"
+            },
+            {
+                "name": "Rodney",
+                "surname": "Hood"
+            },
+            {
+                "name": "Stanley",
+                "surname": "Johnson"
+            },
+            {
+                "name": "Kyle",
+                "surname": "Lowry"
+            },
+            {
+                "name": "Pascal",
+                "surname": "Siakam"
+            },
+            {
+                "name": "Gary",
+                "surname": "Trent Jr."
+            },
+            {
+                "name": "Fred",
+                "surname": "VanVleet"
+            },
+            {
+                "name": "Yuta",
+                "surname": "Watanabe"
+            },
+            {
+                "name": "Paul",
+                "surname": "Watson"
+            }
+        ]
+    },
+    {
+        "name": "Utah Jazz",
+        "short_name": "UTA",
+        "simple_name": "Jazz",
+        "players": [
+            {
+                "name": "Udoka",
+                "surname": "Azubuike"
+            },
+            {
+                "name": "Bojan",
+                "surname": "Bogdanovic"
+            },
+            {
+                "name": "Jarrell",
+                "surname": "Brantley"
+            },
+            {
+                "name": "Jordan",
+                "surname": "Clarkson"
+            },
+            {
+                "name": "Mike",
+                "surname": "Conley"
+            },
+            {
+                "name": "Derrick",
+                "surname": "Favors"
+            },
+            {
+                "name": "Trent",
+                "surname": "Forrest"
+            },
+            {
+                "name": "Rudy",
+                "surname": "Gobert"
+            },
+            {
+                "name": "Elijah",
+                "surname": "Hughes"
+            },
+            {
+                "name": "Ersan",
+                "surname": "Ilyasova"
+            },
+            {
+                "name": "Joe",
+                "surname": "Ingles"
+            },
+            {
+                "name": "Donovan",
+                "surname": "Mitchell"
+            },
+            {
+                "name": "Juwan",
+                "surname": "Morgan"
+            },
+            {
+                "name": "Georges",
+                "surname": "Niang"
+            },
+            {
+                "name": "Royce",
+                "surname": "O'Neale"
+            },
+            {
+                "name": "Miye",
+                "surname": "Oni"
+            },
+            {
+                "name": "Matt",
+                "surname": "Thomas"
+            }
+        ]
+    },
+    {
+        "name": "Washington Wizards",
+        "short_name": "WAS",
+        "simple_name": "Wizards",
+        "players": [
+            {
+                "name": "Deni",
+                "surname": "Avdija"
+            },
+            {
+                "name": "Bradley",
+                "surname": "Beal"
+            },
+            {
+                "name": "Davis",
+                "surname": "Bertans"
+            },
+            {
+                "name": "Isaac",
+                "surname": "Bonga"
+            },
+            {
+                "name": "Thomas",
+                "surname": "Bryant"
+            },
+            {
+                "name": "Daniel",
+                "surname": "Gafford"
+            },
+            {
+                "name": "Anthony",
+                "surname": "Gill"
+            },
+            {
+                "name": "Rui",
+                "surname": "Hachimura"
+            },
+            {
+                "name": "Chandler",
+                "surname": "Hutchison"
+            },
+            {
+                "name": "Alex",
+                "surname": "Len"
+            },
+            {
+                "name": "Robin",
+                "surname": "Lopez"
+            },
+            {
+                "name": "Garrison",
+                "surname": "Mathews"
+            },
+            {
+                "name": "Raul",
+                "surname": "Neto"
+            },
+            {
+                "name": "Ish",
+                "surname": "Smith"
+            },
+            {
+                "name": "Russell",
+                "surname": "Westbrook"
+            },
+            {
+                "name": "Cassius",
+                "surname": "Winston"
+            }
+        ]
+    }
+]
