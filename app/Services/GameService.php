@@ -29,12 +29,20 @@ class GameService
 
     public function getMinWeek(): int
     {
-        return $this->gameRepository->query()->min('week');
+        if ($this->gameRepository->query()->exists()) {
+            return $this->gameRepository->query()->min('week');
+        } else {
+            return 0;
+        }
     }
 
     public function getMaxWeek(): int
     {
-        return $this->gameRepository->query()->max('week');
+        if ($this->gameRepository->query()->exists()) {
+            return $this->gameRepository->query()->max('week');
+        } else {
+            return 0;
+        }
     }
 
     public function getAllGames(): Collection
