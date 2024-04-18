@@ -46,7 +46,7 @@ Before you begin, ensure you have the following requirements:
     ```bash
     cp .env.example .env
 
-5. Update database keys file to `.env`:
+5. Update database keys in `.env`:
 
     ```bash
     DB_CONNECTION=mysql
@@ -55,7 +55,7 @@ Before you begin, ensure you have the following requirements:
     DB_PASSWORD=<password>
    ```
 
-6. Update queue keys file to `.env`:
+6. Update queue keys in `.env`:
 
     ```bash
     REDIS_CLIENT=predis
@@ -64,43 +64,59 @@ Before you begin, ensure you have the following requirements:
     REDIS_PORT=<port>
    ```
 
-7. Generate the application key:
+7. Update Reverb keys in `.env`:
+
+    ```bash
+    REVERB_APP_ID=<app-id>
+    REVERB_APP_KEY=<app-key>
+    REVERB_APP_SECRET=<app-secret>
+    REVERB_HOST="localhost"
+    REVERB_PORT=8080
+    REVERB_SCHEME=http
+    
+    VITE_REVERB_APP_KEY="${REVERB_APP_KEY}"
+    VITE_REVERB_HOST="${REVERB_HOST}"
+    VITE_REVERB_PORT="${REVERB_PORT}"
+    VITE_REVERB_SCHEME="${REVERB_SCHEME}"
+   ```
+
+8. Generate the application key:
 
     ```bash
     php artisan key:generate
     ```
 
-8. Run the database migrations and seeders:
+9. Run the database migrations and seeders:
 
     ```bash
     php artisan migrate --seed
     ```
 
-9. Install npm dependencies
+10. Install npm dependencies
 
     ```bash
     npm install
     ```
    
-10. Build the app
+11. Build the app
 
     ```bash
     npm run build
     ```
 
-11. Start Laravel Horizon for Queue:
+12. Start Laravel Horizon for Queue:
 
     ```bash
     php artisan horizon
     ```
 
-12. Start Laravel Reverb for Websockets:
+13. Start Laravel Reverb for Websockets:
 
     ```bash
     php artisan reverb:start
     ```
 
-13. Start the development server with Artisan or Valet:
+14. Start the development server with Artisan or Valet:
 
     ```bash
     php artisan serve
@@ -112,7 +128,7 @@ Before you begin, ensure you have the following requirements:
     valet link nba-fixture
     ```
 
-14. Visit [http://127.0.0.1:8000](http://127.0.0.1:8000) or [http://nba-fixture.test](http://nba-fixture.test) with
+15. Visit [http://127.0.0.1:8000](http://127.0.0.1:8000) or [http://nba-fixture.test](http://nba-fixture.test) with
     your browser to make sure everything is up and running.
 
 ### Imagine the case
