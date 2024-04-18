@@ -5,7 +5,6 @@ namespace App\Http\Controllers;
 use App\Http\Requests\Fixture\GetRequest;
 use App\Jobs\SimulateGameJob;
 use App\Services\GameService;
-use App\Services\GameSimulationService;
 use Illuminate\Http\RedirectResponse;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Bus;
@@ -14,9 +13,9 @@ use Inertia\Response;
 class FixtureController extends Controller
 {
     private GameService $gameService;
+
     /**
      * @param GameService $gameService
-     * @param GameSimulationService $gameSimulationService
      */
     public function __construct(GameService $gameService)
     {
